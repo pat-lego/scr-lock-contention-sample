@@ -1,0 +1,5 @@
+{
+  "run.on.activate": true,
+  "waiter.start.delay.ms": 1000,
+  "service.wait.ms": 30000
+}
